@@ -19,6 +19,7 @@
     "workbox-strategies": "^7.0.0"
   },
   "dependencies": {
+    "eta": "^3.2.0",
     "htmx.org": "^1.9.10"
   }
 }
